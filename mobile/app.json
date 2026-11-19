@@ -4,6 +4,9 @@
     "slug": "ai-hamroh",
     "version": "0.1.0",
     "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
     "android": {
       "package": "uz.aihamroh.app"
     }
