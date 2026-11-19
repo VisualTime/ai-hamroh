@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AI-Hamroh",
+    "slug": "ai-hamroh",
+    "version": "0.1.0",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "uz.aihamroh.app"
+    }
+  }
+}
